@@ -9,26 +9,19 @@
 # Índice
 * [Descrição](#Descrição)
 * [Anotações](#Anotações)
-  * [Módulo I - Fundamentos](#Módulo-I---Fundamentos)
-  * [ Módulo II - Setup](#Módulo-II---Setup)
-  * [Módulo III - Java Fundamental](#Módulo-III---Java-Fundamental)
-  * [Módulo IV - Java Essencial](#Módulo-IV---Java-Essencial)
-  * [Módulo V - Arquitetura de Sistemas](#Módulo-V---Arquitetura-de-Sistemas)
-  * [Módulo VI - Java Avançado](#Módulo-VI---Java-Avançado)
+  * [Java Fundamental](#Java-Fundamental)
+  * [Java Essencial](#Java-Essencial)
+  * [Arquitetura de Sistemas](#Arquitetura-de-Sistemas)
+  * [Java Avançado](#Java-Avançado)
 
 # Descrição
 Esse projeto contemplará os exercícios e anotações que forem produzidas ao longo dos módulos do Bootcamp GFT Start# 5 Java.
 
 # Anotações
-### Módulo I - Fundamentos
 
+### Java Fundamental
 
-### Módulo II - Setup
-
-
-### Módulo III - Java Fundamental
-
-➡️ Foram discutidos alguns conceitos iniciais da linguagem java como tipos de dados, operadores aritiméticos e casting.
+➡️ Nesse módulo foram discutidos alguns conceitos iniciais da linguagem java como tipos de dados, operadores aritiméticos e casting.
 
 [Exercício Prático 1 - Tipos de Dados](https://github.com/luisgued3s/bootcamp-java-dio/blob/main/Modulo%20III/Pratica1.java)
 
@@ -36,11 +29,11 @@ Esse projeto contemplará os exercícios e anotações que forem produzidas ao l
 
 [Exercício Prático 3 - Casting](#)
 
-### Módulo IV - Java Essencial
+### Java Essencial
 
 
-### Módulo V - Arquitetura de Sistemas
+### Arquitetura de Sistemas
 
 
-### Módulo VI - Java Avançado
+### Java Avançado
 
