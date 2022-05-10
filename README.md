@@ -30,7 +30,7 @@ Esse projeto contemplará os exercícios e anotações que forem produzidas ao l
 
 ➡️ Foram discutidos alguns conceitos iniciais da linguagem java como tipos de dados, operadores aritiméticos e casting.
 
-[Exercício Prático 1 - Tipos de Dados](luisgued3s/bootcamp-java-dio/blob/5bebd996d2d6b314a15137957d26db2c4783dd95/Modulo%20III/Pratica1.java)
+[Exercício Prático 1 - Tipos de Dados](https://github.com/luisgued3s/bootcamp-java-dio/blob/main/Modulo%20III/Pratica1.java)
 
 [Exercício Prático 2 - Operadores Aritiméticos](#)
 
