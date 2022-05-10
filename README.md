@@ -7,20 +7,19 @@
 </p>
 
 # Índice
-[Descrição](Descrição)
-
-[Anotações do Curso](#Anotações-do-Curso)
-* [Módulo I - Fundamentos](#Módulo-I---Fundamentos)
-* [Módulo II - Setup](#Módulo-II---Setup)
-* [Módulo III - Java Fundamental](#Módulo-III---Java-Fundamental)
-* [Módulo IV - Java Essencial](#Módulo-IV---Java-Essencial)
-* [Módulo V - Arquitetura de Sistemas](#Módulo-V---Arquitetura-de-Sistemas)
-* [Módulo VI - Java Avançado](#Módulo-VI---Java-Avançado)
+* [Descrição](#Descrição)
+* [Anotações](#Anotações)
+  * [Módulo I - Fundamentos](#Módulo-I---Fundamentos)
+  * [ Módulo II - Setup](#Módulo-II---Setup)
+  * [Módulo III - Java Fundamental](#Módulo-III---Java-Fundamental)
+  * [Módulo IV - Java Essencial](#Módulo-IV---Java-Essencial)
+  * [Módulo V - Arquitetura de Sistemas](#Módulo-V---Arquitetura-de-Sistemas)
+  * [Módulo VI - Java Avançado](#Módulo-VI---Java-Avançado)
 
 # Descrição
 Esse projeto contemplará os exercícios e anotações que forem produzidas ao longo dos módulos do Bootcamp GFT Start# 5 Java.
 
-# Anotações do Curso
+# Anotações
 ### Módulo I - Fundamentos
 
 
@@ -29,6 +28,13 @@ Esse projeto contemplará os exercícios e anotações que forem produzidas ao l
 
 ### Módulo III - Java Fundamental
 
+➡️ Foram discutidos alguns conceitos iniciais da linguagem java como tipos de dados, operadores aritiméticos e casting.
+
+[Exercício Prático 1 - Tipos de Dados](#luisgued3s/bootcamp-java-dio/blob/5bebd996d2d6b314a15137957d26db2c4783dd95/Modulo%20III/Pratica1.java)
+
+[Exercício Prático 2 - Operadores Aritiméticos](#)
+
+[Exercício Prático 3 - Casting](#)
 
 ### Módulo IV - Java Essencial
 
